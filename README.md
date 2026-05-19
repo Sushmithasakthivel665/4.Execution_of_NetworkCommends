@@ -29,6 +29,7 @@ This commands includes
 ## Output:
  # 1. ping google.com
 <img width="835" height="365" alt="Screenshot 2026-05-19 202446" src="https://github.com/user-attachments/assets/e9e7f26d-84e4-4015-9ef4-43331dad838c" />
+
 # 2. ipconfig
 <img width="981" height="585" alt="Screenshot 2026-05-19 202500" src="https://github.com/user-attachments/assets/3875dc6e-424c-430b-aef2-1dda695e7463" />
 # 3. tracert google.com
