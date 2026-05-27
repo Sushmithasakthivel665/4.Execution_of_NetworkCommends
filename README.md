@@ -36,7 +36,7 @@ This commands includes
 # 3. tracert google.com
 <img width="1061" height="524" alt="Screenshot 2026-05-19 202514" src="https://github.com/user-attachments/assets/f4f5b354-d304-4688-bddc-a9fb1d5f4888" />
 
-# 4. nslooup
+# 4. nslookup
 <img width="650" height="500" alt="Screenshot 2026-05-19 202552" src="https://github.com/user-attachments/assets/8b51150f-59c5-4953-9267-ac382d99d174" />
 
 # 5. arp-a
