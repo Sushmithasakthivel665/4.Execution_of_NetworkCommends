@@ -39,8 +39,8 @@ This commands includes
 # 4. nslooup
 <img width="650" height="500" alt="Screenshot 2026-05-19 202552" src="https://github.com/user-attachments/assets/8b51150f-59c5-4953-9267-ac382d99d174" />
 
-# 5. arp
-<img width="961" height="784" alt="Screenshot 2026-05-19 202643" src="https://github.com/user-attachments/assets/50e96ece-4582-4264-9799-5fd769233f41" />
+# 5. arp-a
+<img width="717" height="953" alt="image" src="https://github.com/user-attachments/assets/595f1e88-aae2-42ac-8009-c6d679641c0c" />
 
 # 6. systeminfo
 <img width="1197" height="940" alt="Screenshot 2026-05-19 202707" src="https://github.com/user-attachments/assets/1cb01831-8ac6-45f5-9851-672f254a9a9b" />
@@ -48,8 +48,9 @@ This commands includes
 # 7. nbtstat
 <img width="1104" height="598" alt="Screenshot 2026-05-19 202721" src="https://github.com/user-attachments/assets/68741da2-a29e-4c64-a683-3973f9eae7e8" />
 
-# 8. pathping
-<img width="824" height="391" alt="Screenshot 2026-05-19 202730" src="https://github.com/user-attachments/assets/88a386b8-9701-4af9-98ad-7b53fa3c7502" />
+# 8. pathping google.com
+<img width="1185" height="481" alt="Screenshot 2026-05-27 104411" src="https://github.com/user-attachments/assets/256ba17f-c386-48a1-a25f-a38a804f0ae2" />
+
 
 # 9. hostname
 <img width="380" height="63" alt="Screenshot 2026-05-19 202740" src="https://github.com/user-attachments/assets/424a7560-cf97-4ad2-9194-d0d82a73419f" />
